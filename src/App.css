@@ -1,0 +1,10 @@
+#root {
+  width: 30rem;
+  margin: 5rem auto auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:#383838;
+  border: solid 2px #5A5A5A;
+  border-radius: 1rem;
+}
+
